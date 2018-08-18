@@ -5,7 +5,8 @@ LOka.on('ready', () => {
   console.log(`Logged in as ${LOka.user.tag} !`);
 
 });
-LOka.on('ready',  () => {
+LOka.on('ready', () => {
+ready',  () => {
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
 console.log('      ~            ~  By :  ~           ~    ');
