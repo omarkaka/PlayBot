@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const LOka = new Discord.Client();
-console.log('By 「Fire」 xiYoussef_.#6363');
+console.log('');
 LOka.on('ready', () => {
   console.log(`Logged in as ${LOka.user.tag} !`);
 
